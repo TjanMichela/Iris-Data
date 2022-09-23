@@ -1,5 +1,2 @@
 # Iris-Data
-first machine learning in Jupyter Notebook with iris dataset
-learned to split data as training and testing datasets
-used K-Neighbors Classifier, Decision Tree Classifier, matplotlib
-predicted the type of iris based on the sample
+My first machine learning guided project with iris dataset using Jupyter Notebook. I learned how to split data into training and testing datasets. The models I used for this project was K-Neighbors Classifier and Decision Tree Classifier. In addition, I applied my knowledge of matplotlib into the project. The goal of the project was to predict the type of iris based on the sample. The purpose of this project is to turn my new knowledge in data science tools and data science processes in real-life applications. This guided project is available from ZerotoMastery's Python Developer course by Andrei Neaogie. 
